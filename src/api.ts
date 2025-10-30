@@ -1,4 +1,4 @@
-const BASE_URL = (import.meta as any).env?.VITE_API_BASE || 'https://jouharkabeer412.pythonanywhere.com/api/'
+const BASE_URL = (import.meta as any).env?.VITE_API_BASE || 'https://jouharkabeer412.pythonanywhere.com/api'
 
 export type TransactionType = 'INCOME' | 'EXPENSE'
 export type Account = 'PARTNER1' | 'PARTNER2' | 'COMPANY'

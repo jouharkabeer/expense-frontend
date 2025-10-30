@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/api.ts","./src/main.tsx","./src/components/card.tsx","./src/components/nav.tsx","./src/pages/dashboard.tsx","./src/pages/expense.tsx","./src/pages/income.tsx"],"version":"5.6.3"}
